@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am currently a second-year graduate student (expected to graduate in 2025) at HIT@SCIR, advised by Prof. Wanxiang Che.
+
+- ✨ Previously, my main research interests focused on deep learning for natural language generation (NLG), e.g., grammatical error correction.
+
+- 🚀 Recently, my main research interest has been in the study of efficient inference for large language models, in particular speculative decoding.
 
 <!--
 **wyxstriker/wyxstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
