@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I am a PhD student at HIT@SCIR, advised by Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/).
-- 🚀 My main research interest is **efficient LLMs**, including pruning, inference acceleration, and synthetic data.
+- 🚀 My main research interest is **efficient LLMs**, including inference acceleration and synthetic data.
 - 👯 If you are interested in my research or potential collaborations, please feel free to reach out to me at [yixuanwang@ir.hit.edu.cn](yixuanwang@ir.hit.edu.cn).
 - 📫 Personal Pages: [https://wyxstriker.github.io](https://wyxstriker.github.io).
 
